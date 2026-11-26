@@ -1,3 +1,4 @@
+
 {
   "id": "disciplines-vtm-v20",
   "title": "Disciplines VTM v20",
@@ -26,5 +27,7 @@
       "system": "worldofdarkness",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://github.com/USERNAME/REPOSITORY/releases/latest/download/module.json",
+  "download": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.0.0/module.zip"
 }
