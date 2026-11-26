@@ -1,0 +1,30 @@
+{
+  "id": "disciplines-vtm-v20",
+  "title": "Disciplines VTM v20",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "HedgehogITGM",
+      "discord": "1489_ne_nacist",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "discipliny",
+      "label": "Дисциплины",
+      "path": "packs/discipliny",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "worldofdarkness",
+      "flags": {}
+    }
+  ]
+}
